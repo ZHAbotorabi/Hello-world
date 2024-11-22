@@ -8,6 +8,7 @@ Here, in this repository, "Hello World" isn't just a program—it's a mindset:
 * **Curiosity**: The spark that drives exploration.
 * **Creativity**: Turning lines of code into something meaningful.
 * **Connection**: Joining a community of innovators and dreamers.
+  
 I believe every line of code is a bridge: between ideas and reality, between logic and imagination, and between you and a world of infinite possibilities. This repository is a small but meaningful tribute to that spirit.
 
 Whether you're new to coding or a seasoned developer, I hope this simple yet timeless tradition reminds you of the boundless potential we hold in our fingertips. As you browse through my work, feel free to explore, share, and collaborate. After all, the beauty of programming lies not just in creating solutions but in sharing knowledge and growing together. 💻🌱
