@@ -1,5 +1,5 @@
 # Hello world, A Warm Welcome!
-Welcome, traveler of the digital universe! 🌟
+Welcome, traveler of the Tech universe! 🌟🌟🌟
 
 The phrase "Hello, World!" is more than just a string of text—it's a symbol of new beginnings, a simple yet powerful declaration that your journey as a creator, builder, and thinker has begun. For many developers, this humble message marks the first step in learning a language, solving a problem, or breathing life into an idea.
 
